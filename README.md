@@ -20,3 +20,4 @@ Ayrıca, sitemize giriş yaparak sunucuda ki geliştiricilerimiz tarafından kod
 
 Topluluğumuzun geleceğinde ki pozisyonunda seni de aramızda görmek isteriz! Sadece sohbetin tadını çıkar. 
 Bu yazıyı okuduktan sonra iyi bir insan ol ve kuralları çiğneme. Unutma, yaptığın bir şey yüzünden uyarılabilirsin.
+<img src='https://cdn.discordapp.com/attachments/925563605238292490/969103101921468426/banner.png'>
