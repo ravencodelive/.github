@@ -13,9 +13,9 @@ Sunucuda iyi zaman geçirebilmek için lütfen aşağıda belirtilmiş olan ve #
 :white_small_square: Discord hizmet şartlarına aykırı bir şey yapma.<br>
 :white_small_square: Doğru yardımı, doğru kanalda iste.<br>
 
-Ayrıca, sitemize giriş yaparak sunucuda ki geliştiricilerimiz tarafından kodlanan ve herkese açık bir şekilde paylaşılan tüm **JavaScript**, **HTML**, **Python** ve **CSS** kodlarına erişim sahibi olabilirsiniz.
-:white_small_square: https://ravencode.live
-:white_small_square: https://status.ravencode.live
+Ayrıca, sitemize giriş yaparak sunucuda ki geliştiricilerimiz tarafından kodlanan ve herkese açık bir şekilde paylaşılan tüm **JavaScript**, **HTML**, **Python** ve **CSS** kodlarına erişim sahibi olabilirsiniz.<br>
+:white_small_square: https://ravencode.live<br>
+:white_small_square: https://status.ravencode.live<br>
 :white_small_square: https://discord.ravencode.live
 
 Topluluğumuzun geleceğinde ki pozisyonunda seni de aramızda görmek isteriz! Sadece sohbetin tadını çıkar. 
