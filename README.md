@@ -1,3 +1,5 @@
+<img src='https://cdn.discordapp.com/attachments/925563605238292490/969103101921468426/banner.png'>
+
 # *Merhaba!* :wave:
 
 Neresi burası, neden buradayım, burada ne yapıyorsunuz gibi sorular sorduğunu biliyorum. Sunucumuz, gelişmeyi hedefleyen olağanüstü bir Topluluktur. Sunucumuzda birileriyle sohbet edebileceğin güzel kanallar var. Bu sunucu, iyi arkadaşlıklar kurabileceğin sıcak bir ortamdır. Eğer Discord.js, Eris, Python, HTML veya CSS hakkında herhangi bir sıkıntın var ise sadece yazman yeterli. Yardımcılar elinden geldiğince sana yardım edecektir. Herhangi bir __geri dönüş alamıyorsan__ @Yardımcı rolünü etiketleyebilirsin.
@@ -20,4 +22,3 @@ Ayrıca, sitemize giriş yaparak sunucuda ki geliştiricilerimiz tarafından kod
 
 Topluluğumuzun geleceğinde ki pozisyonunda seni de aramızda görmek isteriz! Sadece sohbetin tadını çıkar. 
 Bu yazıyı okuduktan sonra iyi bir insan ol ve kuralları çiğneme. Unutma, yaptığın bir şey yüzünden uyarılabilirsin.
-<img src='https://cdn.discordapp.com/attachments/925563605238292490/969103101921468426/banner.png'>
