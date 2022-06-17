@@ -14,6 +14,8 @@ Sunucuda iyi zaman geçirebilmek için lütfen aşağıda belirtilmiş olan ve #
 :white_small_square: Başka bir sunucunun reklamını yapmaya kalkışma.<br>
 :white_small_square: Discord hizmet şartlarına aykırı bir şey yapma.<br>
 :white_small_square: Doğru yardımı, doğru kanalda iste.<br>
+:white_small_square: Doğru yardımı, doğru kanalda iste.<br>
+:white_small_square: Sunucu kanallarında Türkçe dışında bir dil ile konuşmayın. (Do not speak a language other than Turkish on the channels)
 
 Ayrıca, sitemize giriş yaparak sunucuda ki geliştiricilerimiz tarafından kodlanan ve herkese açık bir şekilde paylaşılan tüm **JavaScript**, **HTML**, **Python** ve **CSS** kodlarına erişim sahibi olabilirsiniz.<br>
 :white_small_square: https://ravencode.live<br>
